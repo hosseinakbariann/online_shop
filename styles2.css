@@ -1,0 +1,22 @@
+
+form p.msg {
+	display: block;
+	padding: 10px;
+	margin: 0 0 20px 0;
+	color: red;
+	font-size: 1.2em;
+	font-style: italic;
+	font-family: Tahoma, Arial, 'Times New Roman', sans-serif;
+	height: 1%;
+}
+
+span.bold {
+	font-weight: bold;
+	font-size: 1.4em;
+}
+
+#img
+{
+	height: 450px;
+	width: 564px;
+}
